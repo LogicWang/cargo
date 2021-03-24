@@ -1,2 +1,2 @@
 # cargo
-pure c code  without any build tool, just for practice
+pure c code  without any package build tool, just for practice
